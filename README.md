@@ -48,11 +48,11 @@
 
 ## GitHub Stats
 
-![Junayed's GitHub stats](https://github-readme-stats.vercel.app/api?username=junayedahamed&show_icons=true&theme=radical)
+![Junayed's GitHub stats](https://github-readme-stats.vercel.app/api?username=junayedahamed&show_icons=true&theme=tokyonight&dark)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junayedahamed&layout=compact&langs_count=8&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junayedahamed&layout=compact&langs_count=8&theme=tokyonight&dark)
 
 ## Connect with Me🤝
 
