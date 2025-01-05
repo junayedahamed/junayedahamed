@@ -45,3 +45,36 @@
 
 
 <hr/>
+
+## GitHub Stats
+
+![Junayed's GitHub stats](https://github-readme-stats.vercel.app/api?username=junayedahamed&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junayedahamed&layout=compact&langs_count=8&theme=radical)
+
+## Connect with Me🤝
+
+- [LinkedIn](https://www.linkedin.com/in/junayedahamed)
+- [Twitter](https://twitter.com/junayedahamed)
+- [Email](mailto:junayedahamed.dev@gmail.com)
+
+## Recent Activity ✍️
+
+<!--START_SECTION:activity-->
+Started a new Project named **[eShop](https://github.com/junayedahamed/eshop)**
+
+**Started on** : 04-01-2025
+<!--END_SECTION:activity-->
+**Current Satus**:Running
+
+## Projects 📕
+
+- **[ToDo 📃](https://github.com/junayedahamed/TODO-App)**: This is an apps for tracking daily life works and for maintaining sequence and flow  >>By using Flutter & Dart
+- **[JunaTheBot 🤖](https://github.com/junayedahamed/Juna_the_bot_Discord)**:This is a Discord Chatbot with python coded for maintaining Discord server dynamically 
+- **[Music Player 🎵]()**:Building for own .A ad free music player app >>By using Flutter & Dart
+
+
+
+Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on any projects.
