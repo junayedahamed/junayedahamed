@@ -67,7 +67,7 @@ Started a new Project named **[eShop](https://github.com/junayedahamed/eshop)**
 
 **Started on** : 04-01-2025
 <!--END_SECTION:activity-->
-**Current Satus**:Running
+**Current Satus**:Running❌ Paused✅
 
 ## Projects 📕
 
