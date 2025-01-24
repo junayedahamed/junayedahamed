@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 Currently working as **Student**
+ 🔭 Currently working as **Flutter Developer intern at fellow technology(USA)**
  
  🌱 I’m currently learning **Python, Dart,Flutter**
 
