@@ -74,6 +74,7 @@ Started a new Project named **[eShop](https://github.com/junayedahamed/eshop)**
 - **[ToDo 📃](https://github.com/junayedahamed/TODO-App)**: This is an apps for tracking daily life works and for maintaining sequence and flow  >>By using Flutter & Dart
 - **[JunaTheBot 🤖](https://github.com/junayedahamed/Juna_the_bot_Discord)**:This is a Discord Chatbot with python coded for maintaining Discord server dynamically 
 - **[Music Player 🎵](https://github.com/junayedahamed/music)**:Building for own .A ad free music player app >>By using Flutter & Dart
+- **[Quizy✍️](https://github.com/junayedahamed/quizy)**:A quiz taking apps >>By using Flutter & Dart, And Using Firebase Database and Authentication
 
 
 
