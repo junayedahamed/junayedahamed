@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Python, Dart,Flutter**
 
-💬 Ask me about **c,c++,Java [here](https://github.com/junayedahamed)**
+💬 Ask me about **c,c++,Flutter,Dart [here](https://github.com/junayedahamed)**
 
 
 
