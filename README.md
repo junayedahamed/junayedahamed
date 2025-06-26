@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 Currently working as **Student**
+ 🔭 I am a **Final year Student of CSE at DIU**
  
  🌱 I’m currently learning **Python, Dart,Flutter**
 
@@ -54,20 +54,25 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junayedahamed&layout=compact&langs_count=8&theme=tokyonight&dark)
 
+<br/>
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=junayedahamed&theme=radical&hide_border=false)<br/>
+
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=junayedahamed&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=junayedahamed&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 ## Connect with Me🤝
 
 - [LinkedIn](https://www.linkedin.com/in/junayedahamed)
 - [Twitter](https://twitter.com/junayedahamed)
 - [Email](mailto:junayedahamed.dev@gmail.com)
 
-## Recent Activity ✍️
 
-<!--START_SECTION:activity-->
-Started a new Project named **[eShop](https://github.com/junayedahamed/eshop)**
-
-**Started on** : 04-01-2025
-<!--END_SECTION:activity-->
-**Current Satus**:Running❌ Paused✅
 
 ## Projects 📕
 
