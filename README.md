@@ -57,7 +57,7 @@
 <br/>
 <br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=junayedahamed&theme=radical&hide_border=false)
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=junayedahamed&theme=dark)](https://git.io/streak-stats)
 
 <br/>
 
