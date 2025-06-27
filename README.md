@@ -54,7 +54,12 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junayedahamed&layout=compact&langs_count=8&theme=tokyonight&dark)
 
+<br/>
+<br/>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=junayedahamed&theme=radical&hide_border=false)
+
+<br/>
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=junayedahamed&theme=radical&no-frame=false&no-bg=false&margin-w=4)
