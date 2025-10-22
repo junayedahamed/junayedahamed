@@ -1,5 +1,3 @@
-﻿
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Junayed+Ahamed!;" />
 </h1>
@@ -16,9 +14,7 @@
 
 💬 Ask me about **c,c++,Flutter,Dart [here](https://github.com/junayedahamed)**
 
-
-
- </div>
+</div>
  
 <div align="center"> 
   <a href="mailto:junayedahamed.dev@gmail.com">
@@ -27,10 +23,11 @@
   <a href="https://www.linkedin.com/in/junayed-ahamed-561256252" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
   </a>
-  
 </div>
 
- <hr/>
+
+
+<hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -42,9 +39,12 @@
 <br/>
 <hr/>
 
-
-
 <hr/>
+
+<!-- Visitor Counter -->
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=junayedahamed.junayedahamed" alt="visitor badge"/>
+</div>
 
 ## GitHub Stats
 
@@ -64,15 +64,11 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=junayedahamed&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-
-
 ## Connect with Me🤝
 
 - [LinkedIn](https://www.linkedin.com/in/junayedahamed)
 - [Twitter](https://twitter.com/junayedahamed)
 - [Email](mailto:junayedahamed.dev@gmail.com)
-
-
 
 ## Projects 📕
 
@@ -80,7 +76,5 @@
 - **[JunaTheBot 🤖](https://github.com/junayedahamed/Juna_the_bot_Discord)**:This is a Discord Chatbot with python coded for maintaining Discord server dynamically 
 - **[Music Player 🎵](https://github.com/junayedahamed/music)**:Building for own .A ad free music player app >>By using Flutter & Dart
 - **[Quizy✍️](https://github.com/junayedahamed/quizy)**:A quiz taking apps >>By using Flutter & Dart, And Using Firebase Database and Authentication
-
-
 
 Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on any projects.
