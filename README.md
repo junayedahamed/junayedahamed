@@ -10,7 +10,7 @@
  
  🔭 I am a **Final year Student of CSE at DIU**
  
- 🌱 I’m currently learning **Python, Dart,Flutter**
+ 🌱 I'm currently learning **Python, Dart,Flutter**
 
 💬 Ask me about **c,c++,Flutter,Dart [here](https://github.com/junayedahamed)**
 
@@ -48,21 +48,24 @@
 
 ## GitHub Stats
 
-![Junayed's GitHub stats](https://github-readme-stats.vercel.app/api?username=junayedahamed&show_icons=true&theme=tokyonight&dark)
+![Junayed's GitHub stats](https://github-readme-stats.vercel.app/api?username=junayedahamed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junayedahamed&layout=compact&langs_count=8&theme=tokyonight&dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junayedahamed&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
 
 <br/>
 <br/>
 
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=junayedahamed&theme=dark)](https://git.io/streak-stats)
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=junayedahamed&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 <br/>
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=junayedahamed&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=junayedahamed&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
 
 ## Connect with Me🤝
 
