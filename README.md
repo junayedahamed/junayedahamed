@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I am a **Final year Student of CSE at DIU**
+ 🔭 I am Currently ** Working as a Flutter Intern at IniLabs **
  
  🌱 I'm currently learning **Python, Dart,Flutter**
 
