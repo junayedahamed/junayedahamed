@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I am Currently **Working as a Flutter Intern at IniLabs**
+ 🔭 I am Currently **Working as a Junior Flutter Dev at UmartCo**
  
  🌱 I'm currently learning **Python, Dart,Flutter**
 
