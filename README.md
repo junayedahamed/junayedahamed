@@ -73,6 +73,25 @@ When I am not writing clean code or designing robust mobile architectures, I enj
 
 ---
 
+### 👥 Community & Open Source Leadership
+
+<table border="0" cellspacing="0" cellpadding="0" style="border: none; width: 100%;">
+  <tr style="border: none; background: transparent;">
+    <td width="10%" style="border: none; text-align: center; vertical-align: middle; background: transparent;">
+      <a href="https://github.com/AbabilX" target="_blank">
+        <img src="https://github.com/AbabilX.png" width="70" style="border-radius: 10px;" alt="AbabilX Logo" />
+      </a>
+    </td>
+    <td width="90%" style="border: none; padding-left: 15px; vertical-align: middle; background: transparent;">
+      <b>Co-Founder</b> | <b>AbabilX Open Source Community</b><br/>
+      <i>Building high-quality, open-source Flutter utilities, developer libraries, and ecosystem packages.</i><br/>
+      🔗 <a href="https://github.com/AbabilX" target="_blank">GitHub Org</a> | 💼 <a href="https://www.linkedin.com/company/ababilx" target="_blank">LinkedIn Company Page</a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📁 Featured Projects (Commercial & Packages)
 
 <table style="width: 100%; border-collapse: collapse; border: 1px solid #30363d;">
