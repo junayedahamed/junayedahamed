@@ -1,4 +1,4 @@
-<!-- 
+<!--
 SEO Metadata Block
 - Name: Junayed Ahamed
 - Role: Junior Flutter Developer, Software Engineer, Mobile Application Engineer
@@ -34,6 +34,7 @@ SEO Metadata Block
 I am a passionate **Flutter Developer** and a CSE Graduate from **Daffodil International University**. I specialize in creating scalable, cross-platform mobile applications with clean, modular, and maintainable architectures. Adhering strictly to **SOLID principles**, **Clean Architecture**, and **MVVM design patterns**, I focus on building robust application infrastructures that are easy to test and scale.
 
 **Here is a quick snapshot of me:**
+
 - **💻 What I've Done:** Developed and contributed to production eCommerce applications, Merchant Apps, and Kitchen Display Systems (KDS) using Flutter, REST APIs, state managers (BLoC, Provider, GetX), and local databases.
 
 ---
@@ -41,6 +42,7 @@ I am a passionate **Flutter Developer** and a CSE Graduate from **Daffodil Inter
 ### 🎨 Hobbies & Interests
 
 When I am not writing clean code or designing robust mobile architectures, I enjoy engaging in activities that keep my mind creative and body active:
+
 - **💻 Coding:** Learning new tech stacks, designing packages, and building side projects.
 - **🏏 Playing Cricket:** Actively playing cricket, which helps me stay fit and fosters teamwork.
 - **🎵 Listening to Music:** Tuning into melodies to find focus and unwind.
