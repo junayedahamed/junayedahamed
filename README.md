@@ -1,3 +1,11 @@
+<!--
+SEO Metadata Block
+- Name: Junayed Ahamed
+- Role: Junior Flutter Developer, Software Engineer, Mobile Application Engineer
+- Keywords: Junayed Ahamed, Flutter Developer Bangladesh, Software Engineer Dhaka, Dart, Clean Architecture, MVVM, Daffodil International University, DIU CSE, AbabilX Co-Founder, Android iOS App Developer
+- Description: Portfolio of Junayed Ahamed, a cross-platform Flutter developer specializing in clean code architectures.
+-->
+
 <div align="center">
   <h1>Hi, I'm Junayed Ahamed 👋</h1>
   
@@ -26,6 +34,7 @@
 I am a passionate **Flutter Developer** and a CSE Graduate from **Daffodil International University**. I specialize in creating scalable, cross-platform mobile applications with clean, modular, and maintainable architectures. Adhering strictly to **SOLID principles**, **Clean Architecture**, and **MVVM design patterns**, I focus on building robust application infrastructures that are easy to test and scale.
 
 **Here is a quick snapshot of me:**
+
 - **💻 What I've Done:** Developed and contributed to production eCommerce applications, Merchant Apps, and Kitchen Display Systems (KDS) using Flutter, REST APIs, state managers (BLoC, Provider, GetX), and local databases.
 
 ---
@@ -33,6 +42,7 @@ I am a passionate **Flutter Developer** and a CSE Graduate from **Daffodil Inter
 ### 🎨 Hobbies & Interests
 
 When I am not writing clean code or designing robust mobile architectures, I enjoy engaging in activities that keep my mind creative and body active:
+
 - **💻 Coding:** Learning new tech stacks, designing packages, and building side projects.
 - **🏏 Playing Cricket:** Actively playing cricket, which helps me stay fit and fosters teamwork.
 - **🎵 Listening to Music:** Tuning into melodies to find focus and unwind.
@@ -167,9 +177,9 @@ When I am not writing clean code or designing robust mobile architectures, I enj
 
 I love solving algorithmic challenges and sharpening my problem-solving skills across various platforms:
 
-- **LeetCode:** Solved **56** problems | [Profile](https://leetcode.com/u/Junayed_Ahamed/)
-- **CodeForces:** Solved **73** problems | [Profile](https://codeforces.com/profile/junayedahamed)
-- **Beecrowd (URI):** Solved **155** problems | [Profile](https://www.beecrowd.com.br/)
+- **LeetCode:** Solved **56** problems | [Junayed Ahamed LeetCode Profile](https://leetcode.com/u/Junayed_Ahamed/)
+- **CodeForces:** Solved **73** problems | [Junayed Ahamed Codeforces Profile](https://codeforces.com/profile/junayedahamed)
+- **Beecrowd (URI):** Solved **155** problems | [Junayed Ahamed Beecrowd Profile](https://www.beecrowd.com.br/)
 
 ---
 
@@ -192,11 +202,11 @@ I love solving algorithmic challenges and sharpening my problem-solving skills a
 
 ### 📞 Let's Connect!
 
-- **LinkedIn:** [linkedin.com/in/junayed-ahamed](https://bd.linkedin.com/in/junayed-ahamed)
+- **LinkedIn:** [Junayed Ahamed on LinkedIn](https://bd.linkedin.com/in/junayed-ahamed)
 - **Primary Email:** [junayedahamed660@gmail.com](mailto:junayedahamed660@gmail.com)
 - **Institutional Email:** [ahamed15-5395@diu.edu.bd](mailto:ahamed15-5395@diu.edu.bd)
 - **Phone:** +880 1724-413298
-- **GitHub:** [github.com/junayedahamed](https://github.com/junayedahamed)
+- **GitHub:** [Junayed Ahamed on GitHub](https://github.com/junayedahamed)
 
 ---
 
