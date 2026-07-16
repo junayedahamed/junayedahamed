@@ -213,18 +213,23 @@ I love solving algorithmic challenges and sharpening my problem-solving skills a
 ### 📊 GitHub Stats & Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=junayedahamed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Junayed's GitHub Stats" height="185" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=junayedahamed&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" height="185" />
+  <img src="https://github-readme-stats.shion.dev/api?username=junayedahamed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Junayed's GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=junayedahamed&layout=compact&theme=tokyonight&hide_border=true&langs_count=20" alt="Top Langs" height="195" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=junayedahamed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=junayedahamed&theme=tokyonight&hide_border=true" alt="Junayed's GitHub Streak" height="195" />
+  <!-- <img src="https://github-contribution-stats.vercel.app/api/?username=junayedahamed&theme=tokyonight&layout=compact" alt="Junayed's GitHub Contributions" height="195" /> -->
+</p>
+
+<p align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/junayedahamed?cardType=level&theme=tokyonight&preferLogin=false" alt="My Awesome Stats" />
 </p>
 
 ---
 
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=junayedahamed.junayedahamed" alt="visitor badge"/>
 </div>
+
