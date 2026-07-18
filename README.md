@@ -205,7 +205,6 @@ I love solving algorithmic challenges and sharpening my problem-solving skills a
 - **LinkedIn:** [Junayed Ahamed on LinkedIn](https://bd.linkedin.com/in/junayed-ahamed)
 - **Primary Email:** [junayedahamed660@gmail.com](mailto:junayedahamed660@gmail.com)
 - **Institutional Email:** [ahamed15-5395@diu.edu.bd](mailto:ahamed15-5395@diu.edu.bd)
-- **Phone:** +880 1724-413298
 - **GitHub:** [Junayed Ahamed on GitHub](https://github.com/junayedahamed)
 
 ---
