@@ -196,7 +196,6 @@ I love solving algorithmic challenges and sharpening my problem-solving skills a
 
 - **Bachelor of Science in Computer Science & Engineering (CSE)**
   - **Daffodil International University** | _Graduated 2026_
-  - **Academic Performance:** CGPA 3.50 / 4.00
 
 ---
 
